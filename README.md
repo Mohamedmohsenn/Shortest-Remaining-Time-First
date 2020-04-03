@@ -1,1 +1,1 @@
-# Shortest-Remaining-Time-First algorithm for cpu scheduling and multi tasking
+Shortest-Remaining-Time-First algorithm for cpu scheduling and multi tasking
