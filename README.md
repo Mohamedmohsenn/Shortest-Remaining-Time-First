@@ -1,2 +1,3 @@
 # Shortest-Remaining-Time-First algorithm
-Shortest-Remaining-Time-First algorithm for cpu scheduling and multi tasking
+
+SRTF(Shortest Remaining Time First) : It is preemptive of SJF algorithm in which we give priorty to the process having shortest burst time remaining.
